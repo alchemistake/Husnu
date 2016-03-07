@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Husnu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="db_name">Database</string>
+    <string name="key">ArrayKey</string>
+    <string name="taskNo">TaskNo</string>
+    <string name="title_activity_task">Task Activity</string>
+</resources>
